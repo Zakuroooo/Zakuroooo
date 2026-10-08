@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0a0a,100:8b0000&height=170&section=header&text=Hi,%20I'm%20Pranay%20Sarkar&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e63946&text=Hi,%20I%27m%20Pranay%20Sarkar&fontSize=48&height=110&animation=fadeIn&fontAlignY=55&desc=Black%20Bulls%20mindset%20%E2%80%94%20no%20magic,%20just%20work&descSize=16&descAlignY=88&descColor=f4c430" width="100%"/>
 
 <div align="center">
 
@@ -60,13 +60,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakuroooo&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuroooo&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakuroooo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuroooo&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&langs_count=8"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zakuroooo&hide_border=true&background=0d0d0d&ring=e63946&fire=f4c430&currStreakLabel=f4c430&sideLabels=e63946&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com?user=Zakuroooo&hide_border=true&background=00000000&ring=e63946&fire=f4c430&currStreakLabel=f4c430&sideLabels=e63946&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 </p>
 
 <p align="center"><img src="assets/black-bulls.gif" width="70%" alt="Black Bulls"/></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3a0a0a,100:000000&height=100&section=footer" width="100%"/>
