@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hi,%20I'm%20Pranay%20Sarkar&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0a0a,100:8b0000&height=170&section=header&text=Hi,%20I'm%20Pranay%20Sarkar&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Final-year+B.Tech+student+%E2%80%94+Computer+Science+%26+AI;I+build+full-stack+web+apps+end+to+end;Learning+backend+systems+and+applied+AI;Ex-SDE+Intern+%40+Incanus+Technologies" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F4C430&center=true&vCenter=true&width=620&lines=Final-year+B.Tech+student+%E2%80%94+Computer+Science+%26+AI;I+build+full-stack+web+apps+end+to+end;Learning+backend+systems+and+applied+AI;Ex-SDE+Intern+%40+Incanus+Technologies" alt="typing intro"/>
 
 <a href="https://www.linkedin.com/in/pranay-sarkar65/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/Zakurooooo/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pranay.s23csai@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Zakuroooo&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Zakuroooo&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -20,7 +20,19 @@
 - 🛠️ I like taking a real problem, understanding what people actually need, and shipping something that works
 - 📏 I measure what I build instead of guessing
 - 🤖 I build with AI coding tools like Claude Code, and keep my own rules and checks so the AI's mistakes don't ship
-- 🎸 Outside code, I sing and play the guitar
+- 🎸 Outside code, I sing, play the guitar, and rewatch Black Clover (Asta & Captain Yami fan)
+
+---
+
+### ⚔️ Black Bulls energy
+
+<p align="center">
+  <img src="assets/asta.gif" width="49%" alt="Asta"/>
+  <img src="assets/yami.gif" width="49%" alt="Captain Yami"/>
+</p>
+
+<p align="center"><i>"Surpass your limits. Right here, right now."</i> — Captain Yami</p>
+<p align="center"><b>No magic? Then outwork everyone.</b> That's the Asta way, and mine. 🗡️</p>
 
 ---
 
@@ -48,11 +60,13 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakuroooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuroooo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakuroooo&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuroooo&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=f4c430&text_color=c9d1d9&langs_count=8"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zakuroooo&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Zakuroooo&hide_border=true&background=0d0d0d&ring=e63946&fire=f4c430&currStreakLabel=f4c430&sideLabels=e63946&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<p align="center"><img src="assets/black-bulls.gif" width="70%" alt="Black Bulls"/></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3a0a0a,100:000000&height=100&section=footer" width="100%"/>
